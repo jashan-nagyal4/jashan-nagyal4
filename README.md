@@ -1,5 +1,5 @@
 <h1 align="center">Hi I'm Jashan Nagyal</h1>
-<h3 align="center">A passionate Engineer and Developer from India</h3>
+<h3 align="center">A passionate Engineer and Developer</h3>
 
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/jashan-nagyal4/count.svg" alt="visitor badge"/></p>
