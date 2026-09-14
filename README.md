@@ -26,6 +26,6 @@
 
 <a href="https://twitter.com/jashan_nagyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jashan_nagyal" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/jashannagyal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jashan-nagyal-368649292//" height="30" width="40" /></a>
-<a href="https://www.instagram.com/jashan_nagyal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/jashan_nagyal/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/jashan_nagyal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/jashan.nagyal/" height="30" width="40" /></a>
 
 </p>
