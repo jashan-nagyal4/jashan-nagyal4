@@ -1,9 +1,7 @@
 <div align="center">
 
-  <!-- Dynamic Typing Header Banner -->
-  <a href="https://github.com/jashan-nagyal4">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Jashan+Nagyal+%F0%9F%91%8B" alt="Typing SVG" />
-  </a>
+  <!-- Dynamic Waving Gradient Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,18,24&height=190&section=header&text=Hi,%20I'm%20Jashan%20Nagyal%20👋&fontSize=38&fontAlignY=36" width="100%" alt="Header Banner" />
 
   <p align="center">
     <strong>Passionate Systems & Full-Stack Engineer</strong> focused on high-availability cloud backends, microsecond geospatial dispatch algorithms, and distributed real-time platforms.
@@ -62,13 +60,13 @@
 <h3 align="center">📊 GitHub Engineering Telemetry</h3>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=jashan-nagyal4&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=jashan-nagyal4&background=000000&border=38bdf8&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=38bdf8&sideLabels=38bdf8&dates=94a3b8&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jashan-nagyal4&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="195" alt="Jashan's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jashan-nagyal4&show_icons=true&bg_color=000000&border_color=38bdf8&title_color=38bdf8&text_color=ffffff&icon_color=38bdf8&hide_border=false&include_all_commits=true&count_private=true" height="195" alt="Jashan's GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jashan-nagyal4&layout=compact&theme=tokyonight&hide_border=false" height="195" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jashan-nagyal4&layout=compact&bg_color=000000&border_color=38bdf8&title_color=38bdf8&text_color=ffffff&hide_border=false" height="195" alt="Top Languages" />
 </p>
 
 ---
