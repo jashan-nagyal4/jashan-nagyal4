@@ -2,7 +2,7 @@
 
   <!-- Dynamic Typing Header Banner -->
   <a href="https://github.com/jashan-nagyal4">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Jashan+Nagyal+%F0%9F%91%8B;Full-Stack+Systems+%26+Cloud+Engineer;PostgreSQL+%2B+PostGIS+Spatial+Specialist;Architect+of+Distributed+Backends;Real-Time+High-Throughput+Platforms" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Jashan+Nagyal+%F0%9F%91%8B" alt="Typing SVG" />
   </a>
 
   <p align="center">
